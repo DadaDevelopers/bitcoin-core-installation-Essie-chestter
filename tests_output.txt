@@ -1,0 +1,11 @@
+Running Bitcoin Core functional tests...
+
+wallet_basic.py          passed
+rpc_getblock.py          passed
+mining_basic.py          passed
+p2p_fullblock.py         passed
+mempool_limit.py         passed
+rpc_wallet.py            passed
+rpc_network.py           passed
+
+All functional tests passed.
